@@ -1,5 +1,4 @@
 # Customer-Spending-Score-Prediction
-# Customer Spending Score Prediction
 
 Predicting customer spending behavior using machine learning regression techniques.
 
